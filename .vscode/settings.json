@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    "eslint.autoFixOnSave": true,
+    "python.pythonPath": "python"
+}
